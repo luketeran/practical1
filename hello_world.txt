@@ -1,3 +1,15 @@
+Part B.2.1 - Basic Pull, Branch, Merge, Push
+____________________________________________________________________
+
 This is hello from Shaniah. I am adding a new line of code here.
 this is hello from ziyi. i am adding a new line of code here ):
 hello again. i am here to add in a second line. i am ziyi D:
+
+____________________________________________________________________
+
+
+
+Part B.2.2 - Basic Pull, Branch, Merge, Push + Merge UI in Git
+____________________________________________________________________
+
+this is hello from ziyi. i am adding a new line of code here for direct branch push.
