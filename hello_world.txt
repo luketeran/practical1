@@ -1,7 +1,14 @@
-This is hello from Shaniah. I am adding a new line of code here.
-Hello again. I am here to add in a second line. I am Shaniah.
 <<<<<<< HEAD
 this is hello from ziyi. i am adding a new line of code here ):
 hello again. i am here to add in a second line. i am ziyi D:
+<<<<<<< HEAD
 =======
 >>>>>>> shaniah
+=======
+This is hello from YITING. I am adding a new line of code here!!!
+Hello again. I am here to add in a second line. I'M YITING
+This is hello from Luke. I am adding a new line of code here for direct branch push.
+Hello again. I am here to add in a second line for direct branch push. I am Luke.
+This is hello from Shaniah. I am adding a new line of code here.
+Hello again. I am here to add in a second line. I am Shaniah.
+>>>>>>> 665fc7ff1316235ca4c63caf2b222a5aebd8154b
